@@ -27,6 +27,8 @@ Here are a couple of screenshots from the game:
 3. If any player completes a row, column, or diagonal with their symbol, they win!
 4. If all cells are filled without a winner, the game ends in a draw.
 
+[Play Tic Tac Toe](https://64c2c4f8d4dc35006bfc631b--delicate-kangaroo-73407f.netlify.app/)
+
 ## Winning and Losing Messages
 
 The game has some amusing and sarcastic messages for the winners and losers. Don't take them seriously; they are all in good fun!
