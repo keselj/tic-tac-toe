@@ -1,0 +1,106 @@
+/* Reset default styles */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+h2.name-of-game {
+  font-size: 36px;
+  text-align: center;
+  margin-top: 20px;
+  color: #007bff;
+}
+
+.game-container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  max-width: 800px;
+  width: 100%;
+  margin-top: 40px;
+}
+
+#game-board2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#game-board2 > div {
+  display: flex;
+}
+
+button.empty2 {
+  font-size: 24px;
+  width: 80px;
+  height: 80px;
+  margin: 5px;
+  border: 2px solid #444;
+  background-color: #fff;
+  color: #007bff;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  border-radius: 10px;
+}
+
+button.empty2:hover {
+  background-color: #f0f0f0;
+}
+
+.messages {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-left: 40px;
+}
+
+.message {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  max-width: 250px;
+}
+
+#winnerIs2 {
+  font-size: 20px;
+  margin-top: 20px;
+  color: #333;
+}
+
+.reset-button-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 40px;
+}
+
+.resetButton2 {
+  padding: 10px 20px;
+  font-size: 18px;
+  border: none;
+  background-color: #007bff;
+  color: #fff;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  border-radius: 5px;
+}
+
+.resetButton2:hover {
+  background-color: #0056b3;
+}
