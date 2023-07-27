@@ -1,6 +1,6 @@
 # Tic Tac Toe Game
 
-![screenshots](/screenshots/draw.png)
+![Game Start Screenshot](screenshots/start.PNG)
 
 ## Description
 
@@ -16,9 +16,9 @@ The game board consists of a 3x3 grid, and each cell can be filled with an "X" o
 
 Here are a couple of screenshots from the game:
 
-![Screenshot 1](/screenshots/draw.png)
+![Game Draw Screenshot](screenshots/draw.PNG)
 
-![Screenshot 2](/screenshots/screenshot2.png)
+![Game Win Screenshot](screenshots/win.PNG)
 
 ## How to Play
 
