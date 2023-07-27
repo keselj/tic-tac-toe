@@ -16,7 +16,7 @@ The game board consists of a 3x3 grid, and each cell can be filled with an "X" o
 
 Here are a couple of screenshots from the game:
 
-![Screenshot 1](/screenshots/screenshot1.png)
+![Screenshot 1](/screenshots/draw.png)
 
 ![Screenshot 2](/screenshots/screenshot2.png)
 
