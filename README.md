@@ -5,7 +5,7 @@
 
 ## Description
 
-Welcome to Tic Tac Toe! This is a classic game where you can challenge your friend and see who will emerge victorious in this epic battle of X's and O's.
+This is a classic game where you can challenge your friend and see who will emerge victorious in this epic battle of X's and O's.
 
 **Important Note:** This game features some sarcastic jokes for winners and losers. If you have a good sense of humor and don't mind some playful banter, you'll have a great time playing!
 
